@@ -24,11 +24,6 @@ export default function HomePage() {
                   Admin Login
                 </Button>
               </Link>
-              <Link href="/clock">
-                <Button className="px-8 py-6 text-lg" variant="outline">
-                  World Clock
-                </Button>
-              </Link>
             </div>
 
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mt-12 max-w-3xl mx-auto">
